@@ -10,11 +10,6 @@ img {
   height: 400px;
 }
 
-p {
-  background-color: yellow;
-
-}
-
 h2 {
   font-size: 20px;
 }
@@ -22,3 +17,24 @@ h2 {
 ul {
   line-height: 20px;
 }
+
+body {
+
+}
+.darkTheme {
+  background-color: #353535;
+  color: #B9CDDA;
+}
+/*
+a {
+  color: #8A5491; */
+}
+
+.lightTheme {
+  background-color: #F5E6E8;
+  color: #495038;
+}
+
+/* .light-theme {
+  color: #720087;
+} */
